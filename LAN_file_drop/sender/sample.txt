@@ -1,0 +1,4 @@
+Hello! This is my first LAN File Drop project.
+
+I am learning TCP socket programming in C.
+Now I am testing actual file transfer.
